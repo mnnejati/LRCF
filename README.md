@@ -14,7 +14,9 @@ This repository provides MATLAB demo code for the LRCF algorithm, as described i
 
 > **M. Nejati, S. Samavi, S.M.R. Soroushmehr, and K. Najarian**,  
 > *Low-Rank Regularized Collaborative Filtering for Image Denoising*,  
-> IEEE International Conference on Image Processing (ICIP), Quebec City, Canada, Sept. 2015, pp. 730–734. (10.1109/ICIP.2015.7350895)
+> IEEE International Conference on Image Processing (ICIP), Quebec City, Canada, Sept. 2015, pp. 730–734.
+>
+>  [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICIP.2015.7350874-blue)](https://doi.org/10.1109/ICIP.2015.7350895)
 
 If you use this code in your research, **please cite the above paper**.
 
