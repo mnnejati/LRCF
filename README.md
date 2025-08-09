@@ -3,7 +3,7 @@
 Implementation of the **Low-Rank Regularized Collaborative Filtering** (LRCF) algorithm for natural image denoising.
 
 <p align="center">
-  <img src="readme.png" width="400" alt="LRCF Illustration">
+  <img src="readme.png" width="500" alt="LRCF Illustration">
 </p>
 
 
@@ -47,7 +47,7 @@ Groups of similar patches are modeled as low-rank matrices, and noise is suppres
 ## 📊 Results
 
 <p align="center">
-  <img src="Table.jpg" width="400" alt="Comparison">
+  <img src="Table.jpg" width="900" alt="Comparison">
 </p>
 
 
